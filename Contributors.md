@@ -23,6 +23,7 @@
 - [Sami Tanquary](https://github.com/Sami-Tanquary)
 - [Matthew Joyce](https://github.com/matthewJ1981)
 - [Bhupendra Singh](https://github.com/IIT-Bhupendra)
+- [Aditya Bakshi] (https://github.com/AdiBak)
 - [Tom Stinson](https://github.com/14tstinson)
 - [Ipsita Goel](https://github.com/ipsitagoel)
 - [Nabeel Ahmed Khan] (https://github.com/NabeelAhmed314)
